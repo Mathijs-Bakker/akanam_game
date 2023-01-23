@@ -1,0 +1,446 @@
+[INFO]: Supported GL Extensions: {"GL_EXT_texture_compression_s3tc", "GL_ARB_occlusion_query2", "GL_APPLE_client_storage", "GL_ARB_texture_buffer_object_rgb32", "GL_ARB_gpu_shader_fp64", "GL_ARB_shading_language_include", "GL_ARB_internalformat_query", "GL_ARB_gpu_shader5", "GL_ARB_texture_rgb10_a2ui", "GL_APPLE_container_object_shareable", "GL_ARB_instanced_arrays", "GL_NV_texture_barrier", "GL_ATI_texture_mirror_once", "GL_ARB_viewport_array", "GL_ARB_blend_func_extended", "GL_APPLE_rgb_422", "GL_ARB_shader_bit_encoding", "GL_ARB_sample_shading", "GL_EXT_texture_sRGB_decode", "GL_ARB_transform_feedback2", "GL_ARB_draw_indirect", "GL_ARB_sampler_objects", "GL_ARB_texture_gather", "GL_ARB_texture_swizzle", "GL_ARB_explicit_attrib_location", "GL_ARB_transform_feedback3", "GL_EXT_debug_label", "GL_ARB_vertex_type_2_10_10_10_rev", "GL_APPLE_object_purgeable", "GL_ARB_texture_query_lod", "GL_ARB_timer_query", "GL_EXT_texture_mirror_clamp", "GL_ARB_vertex_attrib_64bit", "GL_EXT_debug_marker", "GL_APPLE_flush_render", "GL_ARB_ES2_compatibility", "GL_ARB_tessellation_shader", "GL_ARB_separate_shader_objects", "GL_ARB_texture_storage", "GL_EXT_depth_bounds_test", "GL_APPLE_row_bytes", "GL_EXT_texture_filter_anisotropic", "GL_ARB_draw_buffers_blend", "GL_ARB_shader_subroutine", "GL_APPLE_texture_range", "GL_ARB_texture_cube_map_array"}
+[INFO]: Shader BlurShader_VertexShader compiled successfully!
+[INFO]: Shader BlurShader_FragmentShader compiled successfully!
+[INFO]: Shader BlurShader linked successfully!
+[INFO]: Shader SsaoShader_VertexShader compiled successfully!
+[INFO]: Shader SsaoShader_FragmentShader compiled successfully!
+[INFO]: Shader SsaoShader linked successfully!
+[INFO]: Shader SpotLightShader_VertexShader compiled successfully!
+[INFO]: Shader SpotLightShader_FragmentShader compiled successfully!
+[INFO]: Shader SpotLightShader linked successfully!
+[INFO]: Shader PointLightShader_VertexShader compiled successfully!
+[INFO]: Shader PointLightShader_FragmentShader compiled successfully!
+[INFO]: Shader PointLightShader linked successfully!
+[INFO]: Shader DirectionalLightShader_VertexShader compiled successfully!
+[INFO]: Shader DirectionalLightShader_FragmentShader compiled successfully!
+[INFO]: Shader DirectionalLightShader linked successfully!
+[INFO]: Shader AmbientLightShader_VertexShader compiled successfully!
+[INFO]: Shader AmbientLightShader_FragmentShader compiled successfully!
+[INFO]: Shader AmbientLightShader linked successfully!
+[INFO]: Shader FlatShader_VertexShader compiled successfully!
+[INFO]: Shader FlatShader_FragmentShader compiled successfully!
+[INFO]: Shader FlatShader linked successfully!
+[INFO]: Shader SkyboxShader_VertexShader compiled successfully!
+[INFO]: Shader SkyboxShader_FragmentShader compiled successfully!
+[INFO]: Shader SkyboxShader linked successfully!
+[INFO]: Shader SpotVolumetricLight_VertexShader compiled successfully!
+[INFO]: Shader SpotVolumetricLight_FragmentShader compiled successfully!
+[INFO]: Shader SpotVolumetricLight linked successfully!
+[INFO]: Shader PointVolumetricLight_VertexShader compiled successfully!
+[INFO]: Shader PointVolumetricLight_FragmentShader compiled successfully!
+[INFO]: Shader PointVolumetricLight linked successfully!
+[INFO]: Shader FlatShader_VertexShader compiled successfully!
+[INFO]: Shader FlatShader_FragmentShader compiled successfully!
+[INFO]: Shader FlatShader linked successfully!
+[INFO]: Shader FlatShader_VertexShader compiled successfully!
+[INFO]: Shader FlatShader_FragmentShader compiled successfully!
+[INFO]: Shader FlatShader linked successfully!
+[INFO]: Shader SpriteShader_VertexShader compiled successfully!
+[INFO]: Shader SpriteShader_FragmentShader compiled successfully!
+[INFO]: Shader SpriteShader linked successfully!
+[INFO]: Shader UIShader_VertexShader compiled successfully!
+[INFO]: Shader UIShader_FragmentShader compiled successfully!
+[INFO]: Shader UIShader linked successfully!
+[INFO]: Shader ParticleSystemShader_VertexShader compiled successfully!
+[INFO]: Shader ParticleSystemShader_FragmentShader compiled successfully!
+[INFO]: Shader ParticleSystemShader linked successfully!
+[INFO]: Shader DebugShader_VertexShader compiled successfully!
+[INFO]: Shader DebugShader_FragmentShader compiled successfully!
+[INFO]: Shader DebugShader linked successfully!
+[INFO]: Shader FXAAShader_VertexShader compiled successfully!
+[INFO]: Shader FXAAShader_FragmentShader compiled successfully!
+[INFO]: Shader FXAAShader linked successfully!
+[INFO]: Shader RectangleShader_VertexShader compiled successfully!
+[INFO]: Shader RectangleShader_FragmentShader compiled successfully!
+[INFO]: Shader RectangleShader linked successfully!
+[INFO]: Shader OverlayShader_VertexShader compiled successfully!
+[INFO]: Shader OverlayShader_FragmentShader compiled successfully!
+[INFO]: Shader OverlayShader linked successfully!
+[INFO]: A new associated scene rendering data was created for scene 0:1!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: A new associated scene rendering data was created for scene 1:1!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Shader StandardShader_GBuffer_VertexShader compiled successfully!
+[INFO]: Shader StandardShader_GBuffer_FragmentShader compiled successfully!
+[INFO]: Shader StandardShader_GBuffer linked successfully!
+[INFO]: Shader StandardShader_Forward_VertexShader compiled successfully!
+[INFO]: Shader StandardShader_Forward_FragmentShader compiled successfully!
+[INFO]: Shader StandardShader_Forward linked successfully!
+[INFO]: Shader StandardShader_DirectionalShadow_VertexShader compiled successfully!
+[INFO]: Shader StandardShader_DirectionalShadow_FragmentShader compiled successfully!
+[INFO]: Shader StandardShader_DirectionalShadow linked successfully!
+[INFO]: Shader StandardShader_SpotShadow_VertexShader compiled successfully!
+[INFO]: Shader StandardShader_SpotShadow_FragmentShader compiled successfully!
+[INFO]: Shader StandardShader_SpotShadow linked successfully!
+[INFO]: Shader StandardShader_PointShadow_VertexShader compiled successfully!
+[INFO]: Shader StandardShader_PointShadow_FragmentShader compiled successfully!
+[INFO]: Shader StandardShader_PointShadow linked successfully!
+[INFO]: Shader BlurShader_VertexShader compiled successfully!
+[INFO]: Shader BlurShader_FragmentShader compiled successfully!
+[INFO]: Shader BlurShader linked successfully!
+[INFO]: Shader SsaoShader_VertexShader compiled successfully!
+[INFO]: Shader SsaoShader_FragmentShader compiled successfully!
+[INFO]: Shader SsaoShader linked successfully!
+[INFO]: Editor settings were reloaded successfully!
+[INFO]: Graphics settings were applied successfully!
+[INFO]: New working directory was successfully set: "/Users/MateoPanadero/Repositories/akanam_game"
+[INFO]: Starting resolve...
+[INFO]: Resolving graph...
+[INFO]: Original handles resolved!
+[INFO]: Checking integrity...
+[INFO]: Integrity restored for 0 instances! 0 new nodes were added!
+[INFO]: Graph resolved successfully!
+[INFO]: Resolve succeeded!
+[INFO]: Associated scene rendering data was re-created for scene 0:1, because render frame size was changed. Old is 250x250, new 1x1!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 1:1, because render frame size was changed. Old is 300x400, new 1x1!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: A new associated scene rendering data was created for scene 2:1!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Shader GizmoShader_Forward_VertexShader compiled successfully!
+[INFO]: Shader GizmoShader_Forward_FragmentShader compiled successfully!
+[INFO]: Shader GizmoShader_Forward linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 0:1, because render frame size was changed. Old is 1x1, new 244x48!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 2:1, because render frame size was changed. Old is 1x1, new 1080x911!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 0:1, because render frame size was changed. Old is 244x48, new 244x45!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Shader BlurShader_VertexShader compiled successfully!
+[INFO]: Shader BlurShader_FragmentShader compiled successfully!
+[INFO]: Shader BlurShader linked successfully!
+[INFO]: Shader SsaoShader_VertexShader compiled successfully!
+[INFO]: Shader SsaoShader_FragmentShader compiled successfully!
+[INFO]: Shader SsaoShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 0:1, because render frame size was changed. Old is 244x45, new 244x72!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 2:1, because render frame size was changed. Old is 1080x911, new 1319x1227!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Shader BlurShader_VertexShader compiled successfully!
+[INFO]: Shader BlurShader_FragmentShader compiled successfully!
+[INFO]: Shader BlurShader linked successfully!
+[INFO]: Shader SsaoShader_VertexShader compiled successfully!
+[INFO]: Shader SsaoShader_FragmentShader compiled successfully!
+[INFO]: Shader SsaoShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 0:1, because render frame size was changed. Old is 244x72, new 244x79!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 2:1, because render frame size was changed. Old is 1319x1227, new 1559x1320!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 2:1, because render frame size was changed. Old is 1559x1320, new 6596x3894!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Associated scene rendering data was re-created for scene 2:1, because render frame size was changed. Old is 6596x3894, new 1559x1320!
+[INFO]: Shader DecalShader_VertexShader compiled successfully!
+[INFO]: Shader DecalShader_FragmentShader compiled successfully!
+[INFO]: Shader DecalShader linked successfully!
+[INFO]: Shader AdaptationShader_VertexShader compiled successfully!
+[INFO]: Shader AdaptationShader_FragmentShader compiled successfully!
+[INFO]: Shader AdaptationShader linked successfully!
+Additional info: WARNING: Output of vertex shader 'texCoord' not read by fragment shader
+
+[INFO]: Shader LuminanceShader_VertexShader compiled successfully!
+[INFO]: Shader LuminanceShader_FragmentShader compiled successfully!
+[INFO]: Shader LuminanceShader linked successfully!
+[INFO]: Shader DownscaleShader_VertexShader compiled successfully!
+[INFO]: Shader DownscaleShader_FragmentShader compiled successfully!
+[INFO]: Shader DownscaleShader linked successfully!
+[INFO]: Shader HdrToLdrShader_VertexShader compiled successfully!
+[INFO]: Shader HdrToLdrShader_FragmentShader compiled successfully!
+[INFO]: Shader HdrToLdrShader linked successfully!
+[INFO]: Shader BloomShader_VertexShader compiled successfully!
+[INFO]: Shader BloomShader_FragmentShader compiled successfully!
+[INFO]: Shader BloomShader linked successfully!
+[INFO]: Shader GaussianBlurShader_VertexShader compiled successfully!
+[INFO]: Shader GaussianBlurShader_FragmentShader compiled successfully!
+[INFO]: Shader GaussianBlurShader linked successfully!
+[INFO]: Scene data/scene.rgs was successfully saved!
+[INFO]: Failed to load settings, fallback to default. Reason: Io(Os { code: 2, kind: NotFound, message: "No such file or directory" })
+[INFO]: Graphics settings were applied successfully!
+[INFO]: New working directory was successfully set: "/Users/MateoPanadero/Repositories/akanam_game/game"
+[INFO]: New graphics quality settings were successfully set!
+[INFO]: Settings were successfully saved!
